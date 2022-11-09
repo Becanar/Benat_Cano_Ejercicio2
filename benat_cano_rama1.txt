@@ -1,5 +1,9 @@
 new file
 new line
 new line 2
+<<<<<<< HEAD
 one new line
 other new line
+=======
+new line for the point 7
+>>>>>>> benat_cano_rama
